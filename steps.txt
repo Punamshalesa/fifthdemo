@@ -1,0 +1,49 @@
+ORM :object relationship mapping
+
+automatic tables create.
+11 tables in mysql 
+models=fields
+10 table only auth for user and developer.
+
+
+In backend means python as abojects
+
+eid,ename,econtact,eemail  but when i created orm 
+objects=mysql fields.
+
+need mysqlclient install 
+
+
+create user:gud users bad users  above 18 yes. gud user 18 above registration
+  bad 16 registration :auth/vadidations.
+
+voting web app: 18 vote no reject.
+
+1)views https response
+2)how to create template--->home.html <h1>
+3)forms.py fields generate.but without dataconnection forms.py only for using
+create field
+4)database user information save my models.py because in models automatically 
+link with database
+5)crud:create,retrives(save,show),update,delete.(99%)
+   a)Models fields (database store)
+   b)forms.py models fields import
+   c)logic (user reg.save,update,delete,show) views.py (models+forms both class name)
+   d)need to create app urls.
+   e)link with project urls.
+
+connections:1)sqlite inbuilt  2)mysql connections
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
